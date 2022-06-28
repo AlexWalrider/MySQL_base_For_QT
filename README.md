@@ -19,6 +19,6 @@ MySQL base for QT with samples<br>
 <b>Внимание! Проект является незавершенным. Вы можете использовать его как базу для своих продуктов, предназначенных для некоммерческих целей. Продажа исходного кода, как и ПО основанного на нем или при его использовании – запрещена.</b>
 
 # Contact
-E-mail: alex@awmail.biz<br>
+E-mail: alex@awgroup.ltd<br>
 This project is a personal development, please respect its philosophy and don’t use it for evil purposes!<br>
 MySQL_for_QT is under GNU GPL v3.<br>
